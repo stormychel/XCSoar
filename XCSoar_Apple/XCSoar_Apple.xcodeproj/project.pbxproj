@@ -16,6 +16,29 @@
 		ED122F832BF4BB160021AFFB /* XCSoar_AppleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED122F822BF4BB160021AFFB /* XCSoar_AppleTests.swift */; };
 		ED122F8D2BF4BB160021AFFB /* XCSoar_AppleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED122F8C2BF4BB160021AFFB /* XCSoar_AppleUITests.swift */; };
 		ED122F8F2BF4BB160021AFFB /* XCSoar_AppleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED122F8E2BF4BB160021AFFB /* XCSoar_AppleUITestsLaunchTests.swift */; };
+		ED124DB82BF4BC510021AFFB /* kobo in Resources */ = {isa = PBXBuildFile; fileRef = ED124DA12BF4BC500021AFFB /* kobo */; };
+		ED124DB92BF4BC510021AFFB /* NEWS.txt in Resources */ = {isa = PBXBuildFile; fileRef = ED124DA22BF4BC500021AFFB /* NEWS.txt */; };
+		ED124DBA2BF4BC510021AFFB /* AUTHORS in Resources */ = {isa = PBXBuildFile; fileRef = ED124DA32BF4BC500021AFFB /* AUTHORS */; };
+		ED124DBB2BF4BC510021AFFB /* Data in Resources */ = {isa = PBXBuildFile; fileRef = ED124DA42BF4BC500021AFFB /* Data */; };
+		ED124DBC2BF4BC510021AFFB /* debian in Resources */ = {isa = PBXBuildFile; fileRef = ED124DA52BF4BC500021AFFB /* debian */; };
+		ED124DBD2BF4BC510021AFFB /* fuzzer in Resources */ = {isa = PBXBuildFile; fileRef = ED124DA62BF4BC500021AFFB /* fuzzer */; };
+		ED124DBE2BF4BC510021AFFB /* cloud in Resources */ = {isa = PBXBuildFile; fileRef = ED124DA72BF4BC500021AFFB /* cloud */; };
+		ED124DBF2BF4BC510021AFFB /* COPYING in Resources */ = {isa = PBXBuildFile; fileRef = ED124DA82BF4BC500021AFFB /* COPYING */; };
+		ED124DC02BF4BC510021AFFB /* PRIVACY.md in Resources */ = {isa = PBXBuildFile; fileRef = ED124DA92BF4BC500021AFFB /* PRIVACY.md */; };
+		ED124DC12BF4BC510021AFFB /* android in Resources */ = {isa = PBXBuildFile; fileRef = ED124DAA2BF4BC510021AFFB /* android */; };
+		ED124DC22BF4BC510021AFFB /* tools in Resources */ = {isa = PBXBuildFile; fileRef = ED124DAB2BF4BC510021AFFB /* tools */; };
+		ED124DC32BF4BC510021AFFB /* Makefile in Sources */ = {isa = PBXBuildFile; fileRef = ED124DAC2BF4BC510021AFFB /* Makefile */; };
+		ED124DC42BF4BC510021AFFB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ED124DAD2BF4BC510021AFFB /* README.md */; };
+		ED124DC52BF4BC510021AFFB /* lib in Resources */ = {isa = PBXBuildFile; fileRef = ED124DAE2BF4BC510021AFFB /* lib */; };
+		ED124DC62BF4BC510021AFFB /* test in Resources */ = {isa = PBXBuildFile; fileRef = ED124DAF2BF4BC510021AFFB /* test */; };
+		ED124DC72BF4BC510021AFFB /* doc in Resources */ = {isa = PBXBuildFile; fileRef = ED124DB02BF4BC510021AFFB /* doc */; };
+		ED124DC82BF4BC510021AFFB /* valgrind.suppressions in Resources */ = {isa = PBXBuildFile; fileRef = ED124DB12BF4BC510021AFFB /* valgrind.suppressions */; };
+		ED124DC92BF4BC510021AFFB /* VERSION.txt in Resources */ = {isa = PBXBuildFile; fileRef = ED124DB22BF4BC510021AFFB /* VERSION.txt */; };
+		ED124DCA2BF4BC510021AFFB /* build in Resources */ = {isa = PBXBuildFile; fileRef = ED124DB32BF4BC510021AFFB /* build */; };
+		ED124DCB2BF4BC510021AFFB /* po in Resources */ = {isa = PBXBuildFile; fileRef = ED124DB42BF4BC510021AFFB /* po */; };
+		ED124DCC2BF4BC510021AFFB /* python in Resources */ = {isa = PBXBuildFile; fileRef = ED124DB52BF4BC510021AFFB /* python */; };
+		ED124DCD2BF4BC510021AFFB /* ide in Resources */ = {isa = PBXBuildFile; fileRef = ED124DB62BF4BC510021AFFB /* ide */; };
+		ED124DCE2BF4BC510021AFFB /* src in Resources */ = {isa = PBXBuildFile; fileRef = ED124DB72BF4BC510021AFFB /* src */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +72,29 @@
 		ED122F882BF4BB160021AFFB /* XCSoar_AppleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XCSoar_AppleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED122F8C2BF4BB160021AFFB /* XCSoar_AppleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCSoar_AppleUITests.swift; sourceTree = "<group>"; };
 		ED122F8E2BF4BB160021AFFB /* XCSoar_AppleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCSoar_AppleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		ED124DA12BF4BC500021AFFB /* kobo */ = {isa = PBXFileReference; lastKnownFileType = folder; name = kobo; path = ../../../kobo; sourceTree = "<group>"; };
+		ED124DA22BF4BC500021AFFB /* NEWS.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = NEWS.txt; path = ../../../NEWS.txt; sourceTree = "<group>"; };
+		ED124DA32BF4BC500021AFFB /* AUTHORS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = AUTHORS; path = ../../../AUTHORS; sourceTree = "<group>"; };
+		ED124DA42BF4BC500021AFFB /* Data */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Data; path = ../../../Data; sourceTree = "<group>"; };
+		ED124DA52BF4BC500021AFFB /* debian */ = {isa = PBXFileReference; lastKnownFileType = folder; name = debian; path = ../../../debian; sourceTree = "<group>"; };
+		ED124DA62BF4BC500021AFFB /* fuzzer */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fuzzer; path = ../../../fuzzer; sourceTree = "<group>"; };
+		ED124DA72BF4BC500021AFFB /* cloud */ = {isa = PBXFileReference; lastKnownFileType = folder; name = cloud; path = ../../../cloud; sourceTree = "<group>"; };
+		ED124DA82BF4BC500021AFFB /* COPYING */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = COPYING; path = ../../../COPYING; sourceTree = "<group>"; };
+		ED124DA92BF4BC500021AFFB /* PRIVACY.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = PRIVACY.md; path = ../../../PRIVACY.md; sourceTree = "<group>"; };
+		ED124DAA2BF4BC510021AFFB /* android */ = {isa = PBXFileReference; lastKnownFileType = folder; name = android; path = ../../../android; sourceTree = "<group>"; };
+		ED124DAB2BF4BC510021AFFB /* tools */ = {isa = PBXFileReference; lastKnownFileType = folder; name = tools; path = ../../../tools; sourceTree = "<group>"; };
+		ED124DAC2BF4BC510021AFFB /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; name = Makefile; path = ../../../Makefile; sourceTree = "<group>"; };
+		ED124DAD2BF4BC510021AFFB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../README.md; sourceTree = "<group>"; };
+		ED124DAE2BF4BC510021AFFB /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; name = lib; path = ../../../lib; sourceTree = "<group>"; };
+		ED124DAF2BF4BC510021AFFB /* test */ = {isa = PBXFileReference; lastKnownFileType = folder; name = test; path = ../../../test; sourceTree = "<group>"; };
+		ED124DB02BF4BC510021AFFB /* doc */ = {isa = PBXFileReference; lastKnownFileType = folder; name = doc; path = ../../../doc; sourceTree = "<group>"; };
+		ED124DB12BF4BC510021AFFB /* valgrind.suppressions */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = valgrind.suppressions; path = ../../../valgrind.suppressions; sourceTree = "<group>"; };
+		ED124DB22BF4BC510021AFFB /* VERSION.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = VERSION.txt; path = ../../../VERSION.txt; sourceTree = "<group>"; };
+		ED124DB32BF4BC510021AFFB /* build */ = {isa = PBXFileReference; lastKnownFileType = folder; name = build; path = ../../../build; sourceTree = "<group>"; };
+		ED124DB42BF4BC510021AFFB /* po */ = {isa = PBXFileReference; lastKnownFileType = folder; name = po; path = ../../../po; sourceTree = "<group>"; };
+		ED124DB52BF4BC510021AFFB /* python */ = {isa = PBXFileReference; lastKnownFileType = folder; name = python; path = ../../../python; sourceTree = "<group>"; };
+		ED124DB62BF4BC510021AFFB /* ide */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ide; path = ../../../ide; sourceTree = "<group>"; };
+		ED124DB72BF4BC510021AFFB /* src */ = {isa = PBXFileReference; lastKnownFileType = folder; name = src; path = ../../../src; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +185,29 @@
 		ED124DA02BF4BBF70021AFFB /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				ED124DAA2BF4BC510021AFFB /* android */,
+				ED124DA32BF4BC500021AFFB /* AUTHORS */,
+				ED124DB32BF4BC510021AFFB /* build */,
+				ED124DA72BF4BC500021AFFB /* cloud */,
+				ED124DA82BF4BC500021AFFB /* COPYING */,
+				ED124DA42BF4BC500021AFFB /* Data */,
+				ED124DA52BF4BC500021AFFB /* debian */,
+				ED124DB02BF4BC510021AFFB /* doc */,
+				ED124DA62BF4BC500021AFFB /* fuzzer */,
+				ED124DB62BF4BC510021AFFB /* ide */,
+				ED124DA12BF4BC500021AFFB /* kobo */,
+				ED124DAE2BF4BC510021AFFB /* lib */,
+				ED124DAC2BF4BC510021AFFB /* Makefile */,
+				ED124DA22BF4BC500021AFFB /* NEWS.txt */,
+				ED124DB42BF4BC510021AFFB /* po */,
+				ED124DA92BF4BC500021AFFB /* PRIVACY.md */,
+				ED124DB52BF4BC510021AFFB /* python */,
+				ED124DAD2BF4BC510021AFFB /* README.md */,
+				ED124DB72BF4BC510021AFFB /* src */,
+				ED124DAF2BF4BC510021AFFB /* test */,
+				ED124DAB2BF4BC510021AFFB /* tools */,
+				ED124DB12BF4BC510021AFFB /* valgrind.suppressions */,
+				ED124DB22BF4BC510021AFFB /* VERSION.txt */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -247,8 +316,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED124DCC2BF4BC510021AFFB /* python in Resources */,
+				ED124DC82BF4BC510021AFFB /* valgrind.suppressions in Resources */,
+				ED124DC12BF4BC510021AFFB /* android in Resources */,
+				ED124DCE2BF4BC510021AFFB /* src in Resources */,
+				ED124DC92BF4BC510021AFFB /* VERSION.txt in Resources */,
 				ED122F792BF4BB160021AFFB /* Preview Assets.xcassets in Resources */,
+				ED124DB82BF4BC510021AFFB /* kobo in Resources */,
+				ED124DCA2BF4BC510021AFFB /* build in Resources */,
+				ED124DBB2BF4BC510021AFFB /* Data in Resources */,
+				ED124DC62BF4BC510021AFFB /* test in Resources */,
+				ED124DBA2BF4BC510021AFFB /* AUTHORS in Resources */,
+				ED124DBD2BF4BC510021AFFB /* fuzzer in Resources */,
+				ED124DC72BF4BC510021AFFB /* doc in Resources */,
+				ED124DC52BF4BC510021AFFB /* lib in Resources */,
+				ED124DCD2BF4BC510021AFFB /* ide in Resources */,
+				ED124DC22BF4BC510021AFFB /* tools in Resources */,
+				ED124DC02BF4BC510021AFFB /* PRIVACY.md in Resources */,
+				ED124DCB2BF4BC510021AFFB /* po in Resources */,
 				ED122F752BF4BB160021AFFB /* Assets.xcassets in Resources */,
+				ED124DBE2BF4BC510021AFFB /* cloud in Resources */,
+				ED124DC42BF4BC510021AFFB /* README.md in Resources */,
+				ED124DBC2BF4BC510021AFFB /* debian in Resources */,
+				ED124DBF2BF4BC510021AFFB /* COPYING in Resources */,
+				ED124DB92BF4BC510021AFFB /* NEWS.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +364,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED124DC32BF4BC510021AFFB /* Makefile in Sources */,
 				ED122F6C2BF4BB140021AFFB /* XCSoar_AppleApp.swift in Sources */,
 				ED122F712BF4BB140021AFFB /* XCSoar_Apple.xcdatamodeld in Sources */,
 				ED122F732BF4BB140021AFFB /* ContentView.swift in Sources */,
