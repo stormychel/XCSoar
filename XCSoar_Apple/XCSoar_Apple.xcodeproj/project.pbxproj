@@ -105,6 +105,7 @@
 				ED122F742BF4BB160021AFFB /* Assets.xcassets */,
 				ED122F762BF4BB160021AFFB /* XCSoar_Apple.entitlements */,
 				ED122F6F2BF4BB140021AFFB /* XCSoar_Apple.xcdatamodeld */,
+				ED124DA02BF4BBF70021AFFB /* Sources */,
 				ED122F772BF4BB160021AFFB /* Preview Content */,
 			);
 			path = XCSoar_Apple;
@@ -133,6 +134,13 @@
 				ED122F8E2BF4BB160021AFFB /* XCSoar_AppleUITestsLaunchTests.swift */,
 			);
 			path = XCSoar_AppleUITests;
+			sourceTree = "<group>";
+		};
+		ED124DA02BF4BBF70021AFFB /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
